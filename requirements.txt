@@ -2,7 +2,7 @@
 torch==2.1.0+cpu
 torchvision==0.16.0+cpu
 streamlit
-numpy
+numpy<2.0.0
 Pillow
 plotly
 reportlab
